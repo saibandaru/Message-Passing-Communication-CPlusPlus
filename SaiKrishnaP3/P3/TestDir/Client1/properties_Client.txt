@@ -1,0 +1,5 @@
+UPLOAD localhost:9000 c1_TO_s1.pdf
+UPLOAD localhost:9010 c1_TO_s2.pdf
+UPLOAD localhost:9010 c1_TO_s2.jpg
+TERMINATE_SERVER localhost:9010 NOFILE
+TERMINATE localhost:0000 NOFILE
